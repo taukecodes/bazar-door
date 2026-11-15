@@ -322,7 +322,7 @@ const ProductDetailsPage = async ({
                     <td className="py-4 px-4 text-slate-500 font-medium">
                       <Chip
                         size="sm"
-                        className="px-2.5 py-1 h-auto rounded-lg bg-slate-100 text-slate-700 font-semibold text-xs"
+                        className="px-2.6 py-1 h-auto rounded-lg bg-slate-100 text-slate-700 font-semibold text-xs"
                       >
                         {mkt.division}
                       </Chip>
