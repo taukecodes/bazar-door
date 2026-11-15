@@ -191,7 +191,7 @@ export default function Navbar() {
               );
             })
           ) : (
-            <span className="text-xs text-slate-400 py-1">লোড হচ্ছে...</span>
+            <span className="text-xs text-slate-400 py-1.5">লোড হচ্ছে...</span>
           )}
         </nav>
       </div>
