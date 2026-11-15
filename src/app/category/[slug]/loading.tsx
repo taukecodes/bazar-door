@@ -13,7 +13,7 @@ const Loading = () => {
               <div className="h-7 sm:h-8 w-28 sm:w-36 bg-slate-200 rounded-lg" />
               <div className="h-6 w-24 bg-emerald-100/70 rounded-full" />
             </div>
-            <div className="h-4 w-56 sm:w-80 bg-slate-200/70 rounded-md" />
+            <div className="h-4 w-56 sm:w-80.5 bg-slate-200/70 rounded-md" />
           </div>
         </div>
 
