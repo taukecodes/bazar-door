@@ -37,7 +37,7 @@ export default function HeroSection() {
 
           {/* CTA Button wrapped in Link */}
           <Link href="#all-products">
-            <Button className="h-11 px-6 rounded-xl bg-[#008f4c] hover:bg-[#007a40] text-white text-sm sm:text-base font-semibold shadow-sm transition-all">
+            <Button className="h-11 px-7 rounded-xl bg-[#008f4c] hover:bg-[#007a40] text-white text-sm sm:text-base font-semibold shadow-sm transition-all">
               সব পণ্য দেখুন
             </Button>
           </Link>
