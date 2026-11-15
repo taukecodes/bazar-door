@@ -121,7 +121,7 @@ export default function ProfilePage() {
               type="text"
               value={name}
               onChange={(e) => setName(e.target.value)}
-              className="w-full px-4 py-2.5 rounded-xl border border-slate-200 bg-white text-sm text-slate-700 focus:outline-none focus:border-[#008f4c] transition-colors"
+              className="w-full px-4 py-2.6 rounded-xl border border-slate-200 bg-white text-sm text-slate-700 focus:outline-none focus:border-[#008f4c] transition-colors"
               required
             />
           </div>
