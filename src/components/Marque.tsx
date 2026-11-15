@@ -63,7 +63,7 @@ export default function Marque() {
                 {/* Price Change Chip */}
                 <Chip
                   size="sm"
-                  className={`px-2 py-0.5 h-5 rounded-full text-[11px] font-bold flex items-center gap-0.5 ${
+                  className={`px-2.5 py-0.5 h-5 rounded-full text-[11px] font-bold flex items-center gap-0.5 ${
                     isUp
                       ? "bg-red-50 text-red-600"
                       : isDown
