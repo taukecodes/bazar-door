@@ -1,9 +1,16 @@
-# 🛒 Bazar Dor (বাজার দর)
-
-**Bazar Dor** is a responsive daily market price tracking web application built to help users easily check, compare, and sort daily commodity prices with Bengali numeral support and secure authentication.
 
 🔗 **Live Demo:** [https://bazar-dor-1-ten.vercel.app](https://bazar-dor-1-ten.vercel.app)
+```[cite: 11]
 
+---
+
+### ২. Screenshot সেকশনের ডেমো
+প্রথমে তোমার লাইভ সাইটের (`bazar-dor-1-ten.vercel.app`) একটি স্ক্রিনশট সেভ করে রাখো[cite: 11]। এরপর GitHub-এর `README.md` এডিট করার সময় নিচের লাইনটির জায়গায় স্ক্রিনশট ছবিটি সরাসরি **ড্র্যাগ অ্যান্ড ড্রপ (Drag & Drop)** করে ছেড়ে দিলেই ছবি যুক্ত হয়ে যাবে:
+
+```markdown
+
+## 📸 Screenshot
+![Bazar Dor Live Preview](paste-your-uploaded-screenshot-link-here)
 ---
 
 ## 📸 Screenshot
@@ -13,36 +20,38 @@
 
 ---
 
-## ✨ Major Features
-- **Daily Market Price Tracking:** Browse updated prices of daily essentials and groceries in an organized, clean interface.
-- **Bengali Numeral Sorting & Filtering:** Smoothly sort and filter product prices accurately with Bengali numeral support.
-- **Multi-Provider Authentication:** Secure user sign-in and registration powered by BetterAuth (Email/Password, Google, and GitHub).
-- **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens using Tailwind CSS and DaisyUI.
-
----
-
 ## 🛠️ Tech Stack
-- **Framework:** Next.js (App Router)
-- **Language:** TypeScript
+- **Frontend:** Next.js (App Router), React, TypeScript
 - **Styling:** Tailwind CSS, DaisyUI
 - **Authentication:** BetterAuth
 - **Deployment:** Vercel
 
----
+## ✨ Major Features
+- **Daily Price Overview:** View updated commodity prices quickly in a clean layout.
+- **Bengali Numeral Sorting:** Sort and filter market prices accurately with Bengali numbers.
+- **Easy Authentication:** Sign in using Email/Password, Google, or GitHub via BetterAuth.
+- **Responsive UI:** Works smoothly across mobile, tablet, and desktop screens.
 
-## 📦 Key Dependencies
-- `next` – React framework for production and server-side rendering
-- `react` & `react-dom` – Core UI library
-- `typescript` – Static type checking
-- `tailwindcss` & `daisyui` – Utility-first CSS and UI component styling
-- `better-auth` – Authentication and session management
-
----
+## 📦 Dependencies
+- `next`
+- `react` & `react-dom`
+- `typescript`
+- `tailwindcss` & `daisyui`
+- `better-auth`
 
 ## 💻 Run Locally
-
-Follow these steps to run the project on your local machine:
-
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone [https://github.com/taukecodes/bazar-door.git](https://github.com/taukecodes/bazar-door.git)
+   ```[cite: 11, 12]
+2. Go to the project folder:
+   ```bash
+   cd bazar-door
+   ```[cite: 11, 12]
+3. Install packages:
+   ```bash
+   npm install
+
+   npm run dev
+```
+
