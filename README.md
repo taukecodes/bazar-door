@@ -9,8 +9,7 @@
 
 ```markdown
 
-## 📸 Screenshot
-![Bazar Dor Live Preview](paste-your-uploaded-screenshot-link-here)
+
 ---
 
 ## 📸 Screenshot
