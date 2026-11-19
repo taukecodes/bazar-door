@@ -13,7 +13,7 @@
 ---
 
 ## 📸 Screenshot
-> *(Tip: Replace the link below by dragging & dropping a screenshot of your website directly into the GitHub editor)*
+
 ![Bazar Dor Screenshot](./screenshot.png)
 <img width="1920" height="1080" alt="Bazar-Dor" src="https://github.com/user-attachments/assets/e250323b-571f-4c12-8ee2-b2dab7a7bee4" />
 
