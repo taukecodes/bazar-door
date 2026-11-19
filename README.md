@@ -14,10 +14,7 @@
 
 ---
 
-## 📸 Screenshot
 
-![Bazar Dor Screenshot](./screenshot.png)
-<img width="1920" height="1080" alt="Bazar-Dor" src="https://github.com/user-attachments/assets/cbf74ba8-b03b-4309-8f7c-f7e5e80694f6" />
 
 
 
