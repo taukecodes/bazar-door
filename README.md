@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛒 Bazar Dor (বাজার দর)
 
-## Getting Started
+**Bazar Dor** is a responsive daily market price tracking web application built to help users easily check, compare, and sort daily commodity prices with Bengali numeral support and secure authentication.
 
-First, run the development server:
+🔗 **Live Demo:** [https://bazar-dor-1-ten.vercel.app](https://bazar-dor-1-ten.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Screenshot
+> *(Tip: Replace the link below by dragging & dropping a screenshot of your website directly into the GitHub editor)*
+![Bazar Dor Screenshot](./screenshot.png)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Major Features
+- **Daily Market Price Tracking:** Browse updated prices of daily essentials and groceries in an organized, clean interface.
+- **Bengali Numeral Sorting & Filtering:** Smoothly sort and filter product prices accurately with Bengali numeral support.
+- **Multi-Provider Authentication:** Secure user sign-in and registration powered by BetterAuth (Email/Password, Google, and GitHub).
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens using Tailwind CSS and DaisyUI.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
+- **Framework:** Next.js (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS, DaisyUI
+- **Authentication:** BetterAuth
+- **Deployment:** Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📦 Key Dependencies
+- `next` – React framework for production and server-side rendering
+- `react` & `react-dom` – Core UI library
+- `typescript` – Static type checking
+- `tailwindcss` & `daisyui` – Utility-first CSS and UI component styling
+- `better-auth` – Authentication and session management
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💻 Run Locally
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Follow these steps to run the project on your local machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/taukecodes/bazar-door.git](https://github.com/taukecodes/bazar-door.git)
