@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Bazar-Dor" src="https://github.com/user-attachments/assets/435fdfd7-9b6b-4cea-b6cc-72d17b5c813c" />
+
 # 🛒 Bazar Dor (বাজার দর)
 🔗 **Live Demo:** [https://bazar-dor-1-ten.vercel.app](https://bazar-dor-1-ten.vercel.app)
 ```[cite: 11]
