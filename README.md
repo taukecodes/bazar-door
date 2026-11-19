@@ -5,54 +5,35 @@
 ```[cite: 11]
 
 ---
+A responsive daily market price tracking web application built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, **DaisyUI**, and **BetterAuth** to help users check, browse, and organize market prices easily.
 
-### ২. Screenshot সেকশনের ডেমো
-প্রথমে তোমার লাইভ সাইটের (`bazar-dor-1-ten.vercel.app`) একটি স্ক্রিনশট সেভ করে রাখো[cite: 11]। এরপর GitHub-এর `README.md` এডিট করার সময় নিচের লাইনটির জায়গায় স্ক্রিনশট ছবিটি সরাসরি **ড্র্যাগ অ্যান্ড ড্রপ (Drag & Drop)** করে ছেড়ে দিলেই ছবি যুক্ত হয়ে যাবে:
+## Live Demo & Repository
 
-```markdown
+- **Live URL:** [https://bazar-dor-1-ten.vercel.app](https://bazar-dor-1-ten.vercel.app)
+- **GitHub Repository:** [https://github.com/taukecodes/bazar-door](https://github.com/taukecodes/bazar-door)
 
+## Key Features
 
----
+- **Daily Price Overview:** Browse daily commodity and market rates in a clean, structured interface.
+- **Bengali Numeral Sorting & Filtering:** Sort and filter price lists smoothly with Bengali numeral support.
+- **Authentication (BetterAuth):** Sign in and manage sessions using Email/Password, Google, and GitHub authentication.
+- **Responsive Design:** Adapts cleanly across mobile, tablet, and desktop screen sizes.
 
+## Tech Stack
 
-
-
-
-
----
-
-## 🛠️ Tech Stack
-- **Frontend:** Next.js (App Router), React, TypeScript
-- **Styling:** Tailwind CSS, DaisyUI
+- **Framework:** Next.js (App Router)
+- **Language:** TypeScript
+- **Styling & UI:** Tailwind CSS, DaisyUI
 - **Authentication:** BetterAuth
 - **Deployment:** Vercel
 
-## ✨ Major Features
-- **Daily Price Overview:** View updated commodity prices quickly in a clean layout.
-- **Bengali Numeral Sorting:** Sort and filter market prices accurately with Bengali numbers.
-- **Easy Authentication:** Sign in using Email/Password, Google, or GitHub via BetterAuth.
-- **Responsive UI:** Works smoothly across mobile, tablet, and desktop screens.
+## Getting Started
 
-## 📦 Dependencies
-- `next`
-- `react` & `react-dom`
-- `typescript`
-- `tailwindcss` & `daisyui`
-- `better-auth`
+Follow these steps to run the project locally:
 
-## 💻 Run Locally
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/taukecodes/bazar-door.git](https://github.com/taukecodes/bazar-door.git)
-   ```[cite: 11, 12]
-2. Go to the project folder:
-   ```bash
    cd bazar-door
-   ```[cite: 11, 12]
-3. Install packages:
-   ```bash
-   npm install
 
-   npm run dev
-```
 
